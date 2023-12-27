@@ -36,8 +36,6 @@ dataclasses==0.5
 decorator==4.4.2
 defusedxml==0.7.1
 diffusers==0.2.2
-Django==2.0
-e2cnn-py36==0.1.8
 entrypoints==0.4
 filelock==3.4.1
 Flask==2.0.3
